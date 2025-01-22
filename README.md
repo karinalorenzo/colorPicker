@@ -6,11 +6,6 @@
 Build a web page with a color picker using React
 
 ## Tecnologies used:
-- GitHub to create the repositorie 
-- Git to work with the repositorie in my local
-- Visual Studio Code as code editor
-- HTML5 for the page structure
-- SASS for the styles of the page
 
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
