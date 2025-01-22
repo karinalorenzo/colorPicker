@@ -1,24 +1,8 @@
-# Color Picker App 🎨
-I have created a web page of a color picker using React and other resources.
+# React + Vite
 
-## Status: done ✔️
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Objective:
-Build a web page with a color picker for selected the hex colors.
+Currently, two official plugins are available:
 
-## Tecnologies used:
-- GitHub to create the repositorie 
-- Git to work with the repositorie in my local
-- Visual Studio Code as code editor
-- React
-- Node.js
-
-
-## Instalations:
-
-You need install node.js for run this project in your local
-
-## Result:
-
-![colorPicker](https://github.com/user-attachments/assets/bc07d42c-48e3-450e-8ee6-5677a892ee1f)
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
