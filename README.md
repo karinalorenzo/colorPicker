@@ -17,3 +17,7 @@ Build a web page with a color picker for selected the hex colors.
 ## Instalations:
 
 You need install node.js for run this project in your local
+
+Result:
+![colorPicker](https://github.com/user-attachments/assets/bc07d42c-48e3-450e-8ee6-5677a892ee1f)
+
