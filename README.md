@@ -1,4 +1,4 @@
-# My Color Picker App 🍝
+# My Color Picker App 🎨
 
 ## Status: done ✔️
 
