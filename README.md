@@ -16,3 +16,7 @@ Build a web page with a color picker using React
 ![Brave](https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white&style=flat)
 ![Google](https://img.shields.io/badge/-Google-4285F4?logo=google&logoColor=white&style=flat)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?logo=openai&logoColor=white&style=flat)
+
+Result:
+
+![picker1](https://github.com/user-attachments/assets/710ed84f-6244-46ca-84a5-d46cb8562c3c)
