@@ -20,3 +20,5 @@ Build a web page with a color picker using React
 Result:
 
 ![picker1](https://github.com/user-attachments/assets/710ed84f-6244-46ca-84a5-d46cb8562c3c)
+
+![Demo](URL_DEL_GIF) 
