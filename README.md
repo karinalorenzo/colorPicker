@@ -19,5 +19,6 @@ Build a web page with a color picker using React
 
 Result:
 
-![picker1](https://github.com/user-attachments/assets/710ed84f-6244-46ca-84a5-d46cb8562c3c)
 
+
+![Screenshot 2025-01-27 at 19 27 54](https://github.com/user-attachments/assets/1229bf8b-abe9-419b-b8ad-7130afbd8d66)
