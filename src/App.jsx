@@ -1,16 +1,18 @@
-import Title from "./components/Title/title";
-import Selected from "./components/Selected/selected";
+import ColorPicker from './ColorPicker.jsx';
 
 
 function App() {
-  return (
+
+  return(
 
     <>
-      <Title />
-      <Selected/>
-    
+
+    <ColorPicker/>
+
     </>
-  );
+  
+
+) 
 
 }
 
